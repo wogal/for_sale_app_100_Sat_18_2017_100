@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Android_Apps\For_Sale_App_100\for_sale_app_100\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Android_Apps\For_Sale_App_100\for_sale_app_100\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_eb6c9b70d4b782f3df077e111448404d42de012f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android_Apps\For_Sale_App_100\for_sale_app_100\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e4d804fecebab85f7e15f003b55531a1b0cdcbb">
+        <dex dex="C:\Android_Apps\For_Sale_App_100\for_sale_app_100\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_137c15807c372e4dcac4dd48add771f819bdb907\classes.dex" />
+    </item>
+
+</items>
